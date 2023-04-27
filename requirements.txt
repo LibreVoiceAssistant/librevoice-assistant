@@ -1,0 +1,10 @@
+ovos-core[skills]~=0.0.7
+ovos-gui==0.0.2a10
+ovos-audio=0.0.2a11
+ovos-listerner=0.0.2a10
+ovos-config~=0.0.8
+ovos-bus-client=0.0.4a3
+ovos-skills-manager~=0.0.12
+ovos-plugin-manager~=0.0.21
+ovos-backend-client~=0.0.6
+ovos-phal~=0.0.5a4
